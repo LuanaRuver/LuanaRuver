@@ -1,4 +1,4 @@
-### Olá, Pessoal 👋
+#### Olá, Pessoal 👋
 
 Eu sou a Luana Ruver, desenvolvedora de Software Back-End e Bacharel em Administração.
 Como empreendedora nata, desenvolvi, principalmente, a habilidade de coordenar equipes e gerenciar conflitos.
