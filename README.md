@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, Pessoal 👋
 
-<!--
-**LuanaRuver/LuanaRuver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou a Luana Ruver, desenvolvedora de Software Back-End e Bacharel em Administração.
+Como empreendedora nata, desenvolvi, principalmente, a habilidade de coordenar equipes e gerenciar conflitos.
+Estou sempre em busca de novos conhecimentos, em um constante processo de aprendizagem. 
+Também com um vasto conhecimento (curiosades) geral. :sweat_smile:
 
-Here are some ideas to get you started:
+##### Hard Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![postgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+
